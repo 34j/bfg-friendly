@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.0.3 (2024-10-04)
+
+### Fix
+
+- Update dependency rich to v13.9.2 (#26) ([`98234e9`](https://github.com/34j/bfg-friendly/commit/98234e9ef56f35780328902df54e42918daa7a47))
+
 ## v0.0.2 (2024-10-01)
 
 ### Fix

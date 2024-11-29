@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "bfg-friendly"
-version = "0.0.7"
+version = "0.0.8"
 description = "Friendly CLI tool for removing sensitive data from a repository "
 authors = ["34j <34j.95a2p@simplelogin.com>"]
 license = "MIT"

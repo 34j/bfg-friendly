@@ -15,7 +15,7 @@ from sphinx.ext import apidoc
 project = "BFG Friendly"
 copyright = "2024, 34j"
 author = "34j"
-release = "0.0.7"
+release = "0.0.8"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

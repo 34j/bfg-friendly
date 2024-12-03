@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.0.9 (2024-12-03)
+
+### Bug fixes
+
+- Update dependency typer to ^0.15.0 (#60) ([`7e9a15f`](https://github.com/34j/bfg-friendly/commit/7e9a15f426600c1083f186888d8308d62c0a939b))
+
 ## v0.0.8 (2024-11-29)
 
 ### Bug fixes

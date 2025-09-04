@@ -28,7 +28,7 @@ bfg-friendly = "bfg_friendly.cli:app"
 [tool.poetry.dependencies]
 python = "^3.8"
 rich = ">=10"
-typer = {extras = ["all"], version = "^0.16.0"}
+typer = {extras = ["all"], version = "^0.17.0"}
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.0"

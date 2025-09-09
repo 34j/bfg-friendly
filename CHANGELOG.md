@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.0.12 (2025-09-09)
+
+### Bug fixes
+
+- Update dependency typer to v0.17.4 (#80) ([`c660d48`](https://github.com/34j/bfg-friendly/commit/c660d489e917c6fbc9d3f08828c30228af52c4bc))
+
 ## v0.0.11 (2025-09-04)
 
 ### Bug fixes

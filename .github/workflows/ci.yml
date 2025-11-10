@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: 3.x
       - uses: pre-commit/action@v3.0.1
@@ -52,7 +52,7 @@ jobs:
         run: pipx install poetry
       # https://github.com/actions/setup-python/blob/main/docs/advanced-usage.md#caching-packages
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         id: setup-python
         with:
           python-version: ${{ matrix.python-version }}
